@@ -1,17 +1,10 @@
 # DunaTaikee.github.io
 
-欢迎来到DunaTaikee的网站！
-
-这是一个通过CSS和HTML完成的静态网站
-
-网站地址为：dunataikee.github.io
-
-网站内容大概分成四个部分：
-
-1）关于我的一些介绍和我最喜欢的6个动漫
-
-2）我朋友的公众号里面的一些文章
-
-3）我生活中一些memorable的时刻
-
-4）一个用户交涉的界面 可以通过输入信息来帮助我更方便的获取想要加入我们团队的成员的个人信息(这个后端还在开发中，会持续更新)
+Welcome to DunaTaikee's website!
+This is a static website done through CSS and HTML!
+The website address is: dunataikee.github.io
+The content of the site is divided into roughly four sections:
+1) Some introductions about me and my 6 favorite anime.
+2) Some articles from my friend's public website.
+3) Some memorable moments in my life.
+4) A user negotiation interface that allows me to input information to help me more easily get the personal information of the members who want to join our team (this backend is still under development, and will be updated continuously).
